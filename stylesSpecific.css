@@ -1,0 +1,42 @@
+
+body{
+    /* this sets the body color to black */
+    background-color: black;
+}
+#mydiv {
+    /* this sets the div id color to purple */
+    background-color: purple;
+    /* this sets the div id text color to black */
+    color: black;
+    font-size: 16pt;
+    font-weight: bolder;
+    width: 400px;
+    height: 400px;
+    /* this sets the div id border color to lime */
+    border: lime;
+    border-style: dotted;
+}
+
+h1 {
+    /* this sets the h1 background color to ghost white */
+    background-color: ghostwhite;
+    /* this sets the h1 text color to fuschia */
+    color:fuchsia;
+    width: 150px;
+    height: 80px;
+    /* this sets the h1 border color to lawn green */
+    border: lawngreen;
+    border-style: dotted;
+}
+
+p.class{
+    /* this sets the p class background color to blanched almond*/
+    background-color: blanchedalmond;
+    /* this sets the p class text color to blue violet */
+    color: blueviolet;
+    width: 150px;
+    height: 30px;
+    /* this sets the p class border color to tomato */
+    border:  tomato;
+    border-style: solid;
+}
