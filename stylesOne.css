@@ -1,0 +1,11 @@
+p:first-letter {
+    font-size: 90px;
+} 
+
+h1:first-line {
+    line-height: 150px;
+}
+
+h1:first-child {
+    font-size: 150px;
+}
