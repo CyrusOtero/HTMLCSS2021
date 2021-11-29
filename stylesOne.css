@@ -5,7 +5,3 @@ p:first-letter {
 h1:first-line {
     line-height: 150px;
 }
-
-h1:first-child {
-    font-size: 150px;
-}
