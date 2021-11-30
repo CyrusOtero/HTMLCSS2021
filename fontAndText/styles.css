@@ -1,0 +1,42 @@
+ul :first-child {
+    font-family: serif;
+}
+
+ul :last-child {
+    font-family: sans-serif;
+}
+
+ul :nth-child(2) {
+    font-family: "Sofia", sans-serif;
+}
+
+ul :nth-child(4) {
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+ul :nth-child(5) {
+    word-spacing: 2pt;
+}
+
+h1 {
+    text-shadow: 50px 50px lime;
+}
+
+a:link {
+    color: blue;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    color: red;
+}
+
+ul :nth-child(6) {
+    text-decoration: line-through;
+}
+
+
+p.class {
+    margin-left: 40px;
+}
