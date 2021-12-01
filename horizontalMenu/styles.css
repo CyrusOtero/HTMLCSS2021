@@ -1,0 +1,25 @@
+html {
+    font-size: 2rem;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li{
+    border: 3px solid black;
+    border-radius: 50px;
+    display: inline-block;
+}
+
+a {
+    padding: 10px;
+    border: 3px solid lime;
+    border-radius: 50px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+li:hover {
+    background-color: lime;
+}
