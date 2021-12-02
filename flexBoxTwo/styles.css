@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    flex-flow: row-reverse wrap;
+    flex-direction: row;
+    height: 400px;
+    width: 2000px;
+    border: 2px solid black;
+}
+
+div {
+    width: 400px;
+    height: 100px;
+    border: 2px solid black;
+    margin: 1px;
+}
+
+.one {
+    flex-grow: 2;
+    flex-shrink: 1;
+}
+
+.two {
+    flex-grow: 1;
+    flex-shrink: 0;
+}
