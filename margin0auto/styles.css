@@ -34,12 +34,10 @@ div {
     padding: 5px;
 }
 img {
-    
-    padding: 0px;
     display: block;
+    margin-left: auto;
+    margin-right: auto;
     border: 8px solid yellow;
     border-style: ridge;
     border-radius: 60%;
-    margin-left: auto;
-    margin-right: auto;
 }
