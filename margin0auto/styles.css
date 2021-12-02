@@ -1,0 +1,45 @@
+h1 {
+    font-size: 24pt;
+    color: cornflowerblue;
+}
+
+h2 {
+    font-size: 24pt;
+    color: red;
+}
+
+body {
+    background-color: steelblue;
+}
+
+section {
+    background-color: forestgreen;
+    border: 5px solid black;
+    height: 1000px;
+    width: 1200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+article.art1 {
+    padding: 3px;
+    margin-top: 1px;
+}
+article.art2 {
+    padding: 3px;
+
+}
+div {
+    padding: 5px;
+}
+img {
+    
+    padding: 0px;
+    display: block;
+    border: 8px solid yellow;
+    border-style: ridge;
+    border-radius: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
