@@ -1,0 +1,8 @@
+#divvy {
+    width: 200px;
+    height: 100px;
+    background-color: darkslateblue;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
