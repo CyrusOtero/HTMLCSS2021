@@ -1,0 +1,15 @@
+div {
+    font-size: 28pt;
+    color: whitesmoke;
+    font-weight: bold;
+    height: 200px;
+    width: 200px;
+    background: firebrick;
+    text-align: center;
+}
+
+#div2 {
+    background: turquoise;
+    position: relative;
+    left: 40px;
+}
