@@ -1,0 +1,25 @@
+body{
+    box-sizing: border-box;
+}
+ul {
+    display: flex;
+    flex-flow: column nowrap;
+    list-style: none;
+    background: skyblue;
+}
+
+a {
+    display: block;
+    flex-flow: column nowrap;
+    text-decoration: none;
+    padding: 20px 0;
+    color: white;
+    text-align: center;
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+}
+
+a:hover {
+    color: darkblue;
+}
+
