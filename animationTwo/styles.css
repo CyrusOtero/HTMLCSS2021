@@ -4,7 +4,7 @@
     40% {background-color: yellow;left:200px; top:200px;}
     60% {background-color: green;left:0px; top:200px;}
     80% {background-color: blue;left:0px; top:0px;}
-    100% {background-color: purple;right: 0px;}
+    100% {background-color: purple;left: 0px;}
 }
 
 
